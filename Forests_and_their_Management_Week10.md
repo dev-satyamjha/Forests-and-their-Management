@@ -116,9 +116,9 @@ Accepted Answers:
 
 **9) Choice of spacing is dependent upon**
 
-- [x] objective of plantation  
-- [x] site-species matching  
-- [x] growth rate  
+- [ ] objective of plantation  
+- [ ] site-species matching  
+- [ ] growth rate  
 - [x] all of these  
 
 Yes, the answer is correct.  

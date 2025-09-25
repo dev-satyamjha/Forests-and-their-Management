@@ -32,9 +32,9 @@ Accepted Answers:
 
 **3) The tiger has a home range of several square kilometres, regulates the ecosystem through controlling herbivore populations and trophic cascades, and people come to tiger reserves to watch tigers. Thus, the tiger can be called as**
 
-- [x] umbrella species  
-- [x] keystone species  
-- [x] flagship species  
+- [ ] umbrella species  
+- [ ] keystone species  
+- [ ] flagship species  
 - [x] all of the above  
 
 Yes, the answer is correct.  
@@ -60,9 +60,9 @@ Accepted Answers:
 
 **5) The elephant has a home range of several square kilometres, regulates the ecosystem by its habit of destructive feeding, and people can relate to this animal which is important for conservation. Given this background, the elephant can be called as**
 
-- [x] umbrella species  
-- [x] keystone species  
-- [x] flagship species  
+- [ ] umbrella species  
+- [ ] keystone species  
+- [ ] flagship species  
 - [x] all of the above  
 
 Yes, the answer is correct.  

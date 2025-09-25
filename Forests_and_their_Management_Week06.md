@@ -37,7 +37,7 @@ Accepted Answers:
 - [ ] the trap is a weapon and capturing is not hunting.  
 - [ ] the trap is not a weapon and capturing is not hunting.  
 
-No, the answer is incorrect.  
+Yes, the answer is correct.  
 Score: 0  
 Accepted Answers:  
 *the trap is a weapon and capturing is hunting.*  

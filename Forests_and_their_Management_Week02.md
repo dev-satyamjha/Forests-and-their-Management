@@ -1,134 +1,113 @@
-# Week 1 : Assignment 1
-
-**Due date:** 2025-02-05, 23:59 IST  
-**Assignment submitted on:** 2025-01-12, 23:27 IST  
+# Week 2: Assignment 2
 
 ---
 
-### Question 1 (1 point)  
-**Which of these is not a consumptive value?**  
-- [ ] timber  
-- [ ] firewood  
-- [ ] non-timber forest products  
-- [x] education  
+**1) Lithosere is an example of**
 
-Yes, the answer is correct.  
-Score: 1  
-Accepted Answers: education  
+- [ ] hydrosere  
+- [x] xerosere  
+- [ ] psammosere  
+- [ ] haloserere  
+
+Correct Answer: *xerosere*  
 
 ---
 
-### Question 2 (1 point)  
-**Which of these is not a forest type found in India?**  
-- [x] Mediterranean dry  
-- [ ] Tropical dry  
-- [ ] Montane temperate  
-- [ ] Alpine  
+**2) Which of these depicts correctly the lithosere primary succession?**
 
-Yes, the answer is correct.  
-Score: 1  
-Accepted Answers: Mediterranean dry  
+- [x] Rock → Crustose lichen → Foliose lichen → Moss → Herbaceous stage → Shrub → Woodland → Climax  
+- [ ] Rock → Foliose lichen → Foliose lichen → Moss → Herbaceous stage → Shrub → Woodland → Climax  
+- [ ] Moss → Crustose lichen → Foliose lichen → Herbaceous stage → Shrub → Woodland → Climax  
+- [ ] Rock → Crustose lichen → Foliose lichen → Shrub → Herbaceous stage → Moss → Woodland → Climax  
+
+Correct Answer: *Rock → Crustose lichen → Foliose lichen → Moss → Herbaceous stage → Shrub → Woodland → Climax*  
 
 ---
 
-### Question 3 (1 point)  
-**“Plant community, predominantly comprised of trees and other woody vegetation, usually with a closed canopy” is**  
-- [ ] silvicultural definition of forests  
-- [ ] FAO definition of forests  
-- [ ] legal definition of forests  
-- [x] ecological definition of forests  
+**3) At compensation point,**
 
-Yes, the answer is correct.  
-Score: 1  
-Accepted Answers: ecological definition of forests  
+- [x] photosynthesis = respiration  
+- [ ] photosynthesis > respiration  
+- [ ] photosynthesis < respiration  
+- [ ] none of these  
+
+Correct Answer: *photosynthesis = respiration*  
 
 ---
 
-### Question 4 (1 point)  
-**According to the Supreme Court, the word forest must be understood according to its**  
-- [ ] biological meaning  
-- [ ] ecological meaning  
-- [ ] silvicultural meaning  
-- [x] dictionary meaning  
+**4) The study of life history / general features of forest crops with respect to environmental factors is called**
 
-Yes, the answer is correct.  
-Score: 1  
-Accepted Answers: dictionary meaning  
+- [ ] foresticulture  
+- [ ] monoculture  
+- [ ] silviculture  
+- [x] silvics  
+
+Correct Answer: *silvics*  
 
 ---
 
-### Question 5 (1 point)  
-**Which of these is not a use value?**  
-- [ ] direct value  
-- [ ] indirect value  
-- [ ] option value  
-- [x] existence value  
+**5) A climax caused by wildfires is an example of**
 
-Yes, the answer is correct.  
-Score: 1  
-Accepted Answers: existence value  
+- [ ] climatic climax  
+- [ ] edaphic climax  
+- [ ] disclimax  
+- [x] catastrophic climax  
+
+Correct Answer: *catastrophic climax*  
 
 ---
 
-### Question 6 (1 point)  
-**According to the Supreme Court, the term forest land includes**  
-- [ ] some area recorded as forest in the Government record according to ownership  
-- [ ] any area recorded as forest in the Government record according to ownership  
-- [ ] some area recorded as forest in the Government record irrespective of ownership  
-- [x] any area recorded as forest in the Government record irrespective of ownership  
+**6) Net primary productivity is given by**
 
-Yes, the answer is correct.  
-Score: 1  
-Accepted Answers: any area recorded as forest in the Government record irrespective of ownership  
+- [ ] APAR + LUE  
+- [x] APAR × LUE  
+- [ ] APAR - LUE  
+- [ ] APAR ÷ LUE  
+
+Correct Answer: *APAR × LUE*  
 
 ---
 
-### Question 7 (1 point)  
-**Tropical moist forests do not include**  
-- [x] broadleaved forests  
-- [ ] wet evergreen forests  
-- [ ] semi-evergreen forests  
-- [ ] moist deciduous forests  
+**7) Practical application of scientific, technical and economic principles of forestry comes under which branch of forestry?**
 
-Yes, the answer is correct.  
-Score: 1  
-Accepted Answers: broadleaved forests  
+- [x] forest management  
+- [ ] forest economics  
+- [ ] forest mensuration  
+- [ ] forest protection  
+
+Correct Answer: *forest management*  
 
 ---
 
-### Question 8 (1 point)  
-**The value of leaving use and non-use values for offspring’s or future generations is called**  
-- [ ] altruistic value  
-- [x] bequest value  
-- [ ] existence value  
-- [ ] option value  
+**8) In the context of plant nutrition, boron is**
 
-Yes, the answer is correct.  
-Score: 1  
-Accepted Answers: bequest value  
+- [ ] macronutrient  
+- [x] micronutrient  
+- [ ] primary nutrient  
+- [ ] secondary nutrient  
+
+Correct Answer: *micronutrient*  
 
 ---
 
-### Question 9 (1 point)  
-**The term ‘forest’ originates from**  
-- [x] Latin foris meaning outside  
-- [ ] Greek foris meaning outside  
-- [ ] Latin foris meaning trees  
-- [ ] Greek foris meaning trees  
+**9) Which of these is not a characteristic of pioneer species?**
 
-Yes, the answer is correct.  
-Score: 1  
-Accepted Answers: Latin foris meaning outside  
+- [ ] ability to grow on bare rocks  
+- [ ] ability to tolerate extreme temperatures  
+- [x] large size  
+- [ ] short life span  
+
+Correct Answer: *large size*  
 
 ---
 
-### Question 10 (1 point)  
-**The value derived from the knowledge of use of resources by others in the current generation is called**  
-- [x] altruistic value  
-- [ ] bequest value  
-- [ ] existence value  
-- [ ] option value  
+**10) The climax near Tindni village is being controlled by disturbance by cattle. This is an example of**
 
-Yes, the answer is correct.  
-Score: 1  
-Accepted Answers: altruistic value  
+- [ ] climatic climax  
+- [ ] edaphic climax  
+- [x] disclimax  
+- [ ] catastrophic climax  
+
+Correct Answer: *disclimax*  
+
+---
